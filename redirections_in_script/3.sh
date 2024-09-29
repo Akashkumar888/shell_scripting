@@ -1,0 +1,4 @@
+
+
+cd /root/ &> /dev/null
+
